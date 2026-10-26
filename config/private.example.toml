@@ -1,0 +1,9 @@
+# Template. Copy to config/private.toml (git-ignored) and fill in your own private values.
+# [forbidden] strings are what tools/check_private.py refuses to let into a commit.
+
+[forbidden]
+strings = ["example-private-threshold", "example-private-rule-name"]
+
+[strategy]          # example values only; the public demo uses examples/demo_orb.py
+range_bars = 6
+risk_per_trade = 0.005

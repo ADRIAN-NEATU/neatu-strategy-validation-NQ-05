@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" width="700" height="340" font-family="Helvetica, Arial, sans-serif">
+<rect width="700" height="340" fill="#fcfcfb"/>
+<text x="70" y="24" font-size="16" font-weight="bold" fill="#0b0b0b">Worst 1-year drawdown (95th percentile) by risk per trade</text>
+<line x1="70" y1="290" x2="670" y2="290" stroke="#c3c2b7"/>
+<text x="62" y="294" font-size="12" fill="#52514e" text-anchor="end">0%</text>
+<line x1="70" y1="242" x2="670" y2="242" stroke="#e1e0d9"/>
+<text x="62" y="246" font-size="12" fill="#52514e" text-anchor="end">5%</text>
+<line x1="70" y1="194" x2="670" y2="194" stroke="#e1e0d9"/>
+<text x="62" y="198" font-size="12" fill="#52514e" text-anchor="end">10%</text>
+<line x1="70" y1="146" x2="670" y2="146" stroke="#e1e0d9"/>
+<text x="62" y="150" font-size="12" fill="#52514e" text-anchor="end">15%</text>
+<line x1="70" y1="98" x2="670" y2="98" stroke="#e1e0d9"/>
+<text x="62" y="102" font-size="12" fill="#52514e" text-anchor="end">20%</text>
+<line x1="70" y1="50" x2="670" y2="50" stroke="#e1e0d9"/>
+<text x="62" y="54" font-size="12" fill="#52514e" text-anchor="end">25%</text>
+<path d="M107.5,290.0 V263.3 Q107.5,259.3 111.5,259.3 H178.5 Q182.5,259.3 182.5,263.3 V290.0 Z" fill="#2a78d6"/>
+<text x="145" y="251" font-size="13" fill="#0b0b0b" text-anchor="middle">3.2%</text>
+<text x="145" y="312" font-size="13" fill="#52514e" text-anchor="middle">0.25% risk</text>
+<path d="M257.5,290.0 V233.4 Q257.5,229.4 261.5,229.4 H328.5 Q332.5,229.4 332.5,233.4 V290.0 Z" fill="#2a78d6"/>
+<text x="295" y="221" font-size="13" fill="#0b0b0b" text-anchor="middle">6.3%</text>
+<text x="295" y="312" font-size="13" fill="#52514e" text-anchor="middle">0.5% risk</text>
+<path d="M407.5,290.0 V175.8 Q407.5,171.8 411.5,171.8 H478.5 Q482.5,171.8 482.5,175.8 V290.0 Z" fill="#2a78d6"/>
+<text x="445" y="164" font-size="13" fill="#0b0b0b" text-anchor="middle">12.3%</text>
+<text x="445" y="312" font-size="13" fill="#52514e" text-anchor="middle">1% risk</text>
+<path d="M557.5,290.0 V69.4 Q557.5,65.4 561.5,65.4 H628.5 Q632.5,65.4 632.5,69.4 V290.0 Z" fill="#2a78d6"/>
+<text x="595" y="57" font-size="13" fill="#0b0b0b" text-anchor="middle">23.4%</text>
+<text x="595" y="312" font-size="13" fill="#52514e" text-anchor="middle">2% risk</text>
+<line x1="70" y1="194" x2="670" y2="194" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="76" y="188" font-size="12" fill="#0b0b0b">10% max-loss limit</text>
+</svg>
