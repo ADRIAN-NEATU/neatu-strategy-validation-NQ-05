@@ -10,7 +10,7 @@ comparison and an independent reproduction.
 - `examples/`: a public demo strategy with example parameters on synthetic data, showing the full pipeline.
 - `results/`: the real validation results, as aggregate numbers only.
 - `docs/`: the charts.
-- **[Presentation (PDF)](PREZENTARE_NEATU_NQ_05%20Validation.pdf)**: the 10‑slide summary of the validation.
+- **[Presentation (PDF)](NEATU_NQ_05%20Validation.pdf)**: the 10‑slide summary of the validation.
 
 ## The strategy in one paragraph
 
