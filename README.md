@@ -10,6 +10,7 @@ comparison and an independent reproduction.
 - `examples/`: a public demo strategy with example parameters on synthetic data, showing the full pipeline.
 - `results/`: the real validation results, as aggregate numbers only.
 - `docs/`: the charts.
+- **[Presentation (PDF)](PREZENTARE_NEATU_NQ_05%20Validation.pdf)**: the 10‑slide summary of the validation.
 
 ## The strategy in one paragraph
 
@@ -80,7 +81,7 @@ Costs (spread, slippage, commission) are included everywhere.
 |---|---|---|
 | CAGR | 25.9 % | 11.7 % |
 | Sharpe | 1.17 | 0.72 |
-| Max drawdown | 25.9 % | 33.9 % |
+| Max drawdown | 27.0 % | 33.9 % |
 | Correlation / beta | −0.02 / −0.02 (t −0.9) | 1 / 1 |
 
 - **Worst S&P days:** on the 20 worst S&P days, the S&P averaged −5.2 % per day and the strategy +0.6 % per day.
